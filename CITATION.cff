@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 3: Sistema Musculoesquelético'
+message: Modelado de Sistemas Fisiológicos / Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Keybin D.
+    family-names: Sanchez Perez
+    email: l23210721@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/KeybinSanchez/MSFPractica3.git'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/KeybinSanchez/MSFPractica3.git'
+keywords:
+  - Sistema Musculoesquelético
+  - Circuito RLC
+  - Controlador PID
+  - Modelo biomecánico
+  - Fuerza-Voltaje
+version: '1.0'
+date-released: '2026-03-27'
