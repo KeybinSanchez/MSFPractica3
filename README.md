@@ -45,7 +45,7 @@ El sistema musculoesquelético puede modelarse mediante analogías eléctricas q
 La entrada al sistema puede ser la fuerza muscular generada o una fuerza externa aplicada F(t), y la salida puede ser el desplazamiento x(t) o el ángulo articular. Este modelo es análogo al de un sistema masa-resorte-amortiguador, ampliamente utilizado en biomecánica para estudiar la respuesta del sistema musculoesquelético ante perturbaciones, el control postural y el diseño de prótesis u órtesis.
 
 ## Palabras clave
-Sistema Musculoesquelético; Circuito RLC; Controlador PID; Modelo biomecánico; Simulaciones numéricas, Fuerza-Voltake.
+Sistema Musculoesquelético; Circuito RLC; Controlador PID; Modelo biomecánico; Simulaciones numéricas, Fuerza-Voltaje.
 
 ## Lista de archivos incluidos en el repositorio
 
